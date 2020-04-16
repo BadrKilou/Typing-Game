@@ -1,0 +1,1 @@
+This is My first time building a game using javascript, it was fun making this simple typing game :)
